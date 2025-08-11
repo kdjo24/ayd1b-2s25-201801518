@@ -1,0 +1,23 @@
+{
+  "name": "ayd1b-2s25-201801518",
+  "version": "1.0.0",
+  "description": "En esta tarea deberán desarrollar una API REST que muestre su nombre junto con el nombre de su canción favorita, para luego crear un tag de versión que marque esta entrega inicial. Posteriormente, deberán crear una rama de corrección para modificar la API, reemplazando la canción por el nombre de un álbum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdjo24/ayd1b-2s25-201801518.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdjo24/ayd1b-2s25-201801518/issues"
+  },
+  "homepage": "https://github.com/kdjo24/ayd1b-2s25-201801518#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
