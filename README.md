@@ -6,7 +6,7 @@ En esta tarea deberán desarrollar una API REST que muestre su nombre junto con 
 
 ## Punto 1: API muestra nombre y canción favorita
 
-![Captura punto 1](./img/Picture1.png.png)
+![Captura punto 1](./img/Picture1.png)
 
 ## Punto 3: API muestra nombre y álbum favorito (hotfix)
 
